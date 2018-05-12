@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '39432'
     url: http://www.gutenberg.org/2009/agents/39432
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38380#The-Two-Tests--The-Supernatural-Claims-of-Christianity-Tried-by-Two-of-its-Own-Rules
 gutenberg_issued: '2011-12-22'
 gutenberg_type: Text
 identifiers:
